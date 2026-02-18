@@ -4,6 +4,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+<div align="center">
+  <img src="diagram README.png" alt="Architecture Diagram" width="800">
+  <p><em>Figure 1: High-level architecture illustrating the dual-strategy approach (Content-Based + Neural Collaborative Filtering).</em></p>
+</div>
+
 > **Implementation of Neural Collaborative Filtering (NCF) and Content-Based Filtering for personalized item discovery.**
 
 ## Project Overview
